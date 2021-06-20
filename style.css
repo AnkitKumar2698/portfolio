@@ -334,7 +334,7 @@ background-color:#000;
 color: #fff;
 padding: 10px;
 }
-/* @media(max-width:991px){
+ @media(max-width:991px){
     header,header.sticky{
         padding:20px 50px;
     }
@@ -440,7 +440,7 @@ padding: 10px;
 .testimonial .content{
     display: flex;
     flex-direction: column;
-}
+}NS
 .testimonial .content .testimonialBx{
         max-width: 100%;
     }
@@ -450,4 +450,4 @@ padding: 10px;
 .formBx h3{
     text-align: center;
 }
-} */
+} 
