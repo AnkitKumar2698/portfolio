@@ -440,7 +440,7 @@ padding: 10px;
 .testimonial .content{
     display: flex;
     flex-direction: column;
-}NS
+}
 .testimonial .content .testimonialBx{
         max-width: 100%;
     }
